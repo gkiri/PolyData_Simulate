@@ -1,0 +1,16 @@
+# Polymarket Data Collector - Dependencies
+# Production-grade data collection for 15-minute crypto events
+
+# HTTP requests
+requests>=2.31.0
+
+# WebSocket client
+websocket-client>=1.6.0
+
+# Data validation (optional, for enhanced type checking)
+# pydantic>=2.0.0
+
+# For potential future enhancements:
+# aiohttp>=3.9.0  # Async HTTP
+# orjson>=3.9.0  # Fast JSON serialization
+

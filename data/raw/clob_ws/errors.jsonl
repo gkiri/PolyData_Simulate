@@ -1,0 +1,1 @@
+{"schema_version":1,"source":"clob_ws_market","recv_ts_ns":1768250236201864492,"error":"AttributeError(\"'list' object has no attribute 'get'\")"}
